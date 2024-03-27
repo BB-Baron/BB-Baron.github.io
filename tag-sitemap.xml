@@ -3,15 +3,22 @@
 
 
     <url>
-        <loc>https://bb-baron.github.io/tags/%E5%AD%90%E8%82%B2%E3%81%A6/</loc>
-        <lastmod>2024-03-27T06:49:00.027Z</lastmod>
+        <loc>https://bb-baron.github.io/tags/DIY/</loc>
+        <lastmod>2024-03-27T16:08:20.671Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://bb-baron.github.io/tags/%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89/</loc>
-        <lastmod>2024-03-27T05:25:08.982Z</lastmod>
+        <lastmod>2024-03-27T16:08:20.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://bb-baron.github.io/tags/%E5%AD%90%E8%82%B2%E3%81%A6/</loc>
+        <lastmod>2024-03-27T06:49:00.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
