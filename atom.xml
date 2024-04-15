@@ -132,19 +132,21 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://bb-baron.github.io/2024/04/04/hello-world/"/>
-    <id>https://bb-baron.github.io/2024/04/04/hello-world/</id>
-    <published>2024-04-04T05:02:16.456Z</published>
-    <updated>2024-04-04T06:55:51.453Z</updated>
+    <title>HEXOでブログ作ってみた</title>
+    <link href="https://bb-baron.github.io/2024/04/01/hello-world/"/>
+    <id>https://bb-baron.github.io/2024/04/01/hello-world/</id>
+    <published>2024-04-01T07:00:53.000Z</published>
+    <updated>2024-04-15T13:36:26.153Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p>ベイブレードのブログをGithub Pagesを利用して作ってみようと思います。</p><span id="more"></span><h2 id="普通のブログとの違い"><a href="#普通のブログとの違い" class="headerlink" title="普通のブログとの違い"></a>普通のブログとの違い</h2><p>普通のブログはCMS（コンテンツ・マネジメント・システム）でできていて、いわゆる「動的」にページを構築してくれます。<br>それに対してGithub Pageは「静的」ページしか置くことができません。その代わり、ローカルで静的なサイトを構築して、それをサーバーにアップロードしてくれるシステムを使うことで、安全で軽量なブログを作る事ができるツール「静的サイトジェネレータ」を使います。</p><h2 id="その名は”Hexo”"><a href="#その名は”Hexo”" class="headerlink" title="その名は”Hexo”"></a>その名は”Hexo”</h2><p>今回使う静的サイトジェネレータは「<em>Hexo</em>」にしました。読みは「ヘキソ」か「ヘクソ」ですかね（笑）。<br>最初は使い方というか考え方がよく分からず、うまくいきませんでしたが、やっとのその思想が分かってきて、便利に使い始めています。</p><h2 id="VS-Codeとの組み合わせが良い"><a href="#VS-Codeとの組み合わせが良い" class="headerlink" title="VS Codeとの組み合わせが良い"></a>VS Codeとの組み合わせが良い</h2><p>最初馬鹿の一つ覚えで、Github Desktopとか使って失敗していたのですが、結局ブログの公開に関してはMicrosoftの<a href="https://code.visualstudio.com/">VS Code</a>というエディタがあればそれで良かったのです。<br>エディタから直接コマンドラインが使えるので、静的サイトジェネレータとはすごく相性が良いです。<br>なんなら、自作スコアボードアプリのコード編集にも使っています。</p>]]></content>
     
     
+    <summary type="html">&lt;p&gt;ベイブレードのブログをGithub Pagesを利用して作ってみようと思います。&lt;/p&gt;</summary>
     
+    
+    
+    
+    <category term="プログラミング" scheme="https://bb-baron.github.io/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/"/>
     
   </entry>
   
